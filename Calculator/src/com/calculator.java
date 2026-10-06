@@ -16,4 +16,8 @@ public class calculator {
 	{
 		System.out.println(20*2);
 	}
+	public void div()
+	{
+		System.out.println(20/2);
+	}
 }
