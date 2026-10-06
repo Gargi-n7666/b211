@@ -11,4 +11,9 @@ public class calculator {
 	{
 		System.out.println(20-10);
 	}
+	
+	public void mul()
+	{
+		System.out.println(20*2);
+	}
 }
